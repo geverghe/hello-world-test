@@ -1,2 +1,8 @@
-# hello-world-test
-This is a test to run the hello world code
+#incude<stdio.h>
+#include<iostream.h>
+
+void main()
+{
+/*Sample C++ program */
+ cout<<"Hello World!";
+}
